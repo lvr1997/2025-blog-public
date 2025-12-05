@@ -37,10 +37,10 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/lvr1997",
-			"label": "Github",
+			"id": "email",
+			"type": "email",
+			"value": "lv1997rrr@gmail.com",
+			"label": "",
 			"order": 1
 		},
 		{
@@ -51,10 +51,10 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "lv1997rrr@gmail.com",
-			"label": "",
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/lvr1997",
+			"label": "Github",
 			"order": 3
 		}
 	]
