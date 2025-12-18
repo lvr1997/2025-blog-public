@@ -1,3 +1,13 @@
 [
-  
+  {
+    "slug": "intro-java",
+    "title": "初识Java",
+    "tags": [
+      "随笔"
+    ],
+    "date": "2016-08-22T16:12",
+    "summary": "初识Java",
+    "hidden": false,
+    "category": "总结"
+  }
 ]
