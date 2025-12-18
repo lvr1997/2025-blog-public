@@ -14,8 +14,8 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#fcc841",
-		"#dfeffc",
+		"#FCC841",
+		"#DFEFFC",
 		"#DEDE92",
 		"#DE4331",
 		"#FE9750",
@@ -57,5 +57,12 @@
 			"label": "Github",
 			"order": 3
 		}
-	]
+	],
+	"clockShowSeconds": false,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false
 }

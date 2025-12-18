@@ -65,7 +65,7 @@
 	{
 		"name": "enpitsulin 铅笔",
 		"url": "https://enpitsulin.xyz/",
-		"avatar": "https://enpitsulin.xyz/favicon.svg",
+		"avatar": "https://enpitsulin.dev/images/avatar.webp",
 		"description": "很简洁的blog网站，像 nanda。只不过很久没内容了。他现在的头像一时让我想不起他是谁了，突然发现它过去可爱头像，我想起来这家伙了。",
 		"stars": 2
 	},
@@ -110,13 +110,6 @@
 		"avatar": "/images/blogger/2fe46db88bd43683.svg",
 		"description": "技术团队 blog，咨询、动态、故事。我觉得页面感受还不错。",
 		"stars": 4
-	},
-	{
-		"name": "颜海镜",
-		"url": "https://yanhaijing.com/",
-		"avatar": "https://avatars.githubusercontent.com/u/3192087?v=4",
-		"description": "国内早期大神，知名的js教程一类。就是不怎么关心 blog。本人在网上还很活跃，人也看上去很年轻。",
-		"stars": 3
 	},
 	{
 		"name": "Huozhi",
@@ -173,13 +166,6 @@
 		"url": "https://www.seamory.com/",
 		"description": "好像是为后端/嵌入式？2025 年初建立的 blog，无 UI 设计。但少有后端人显露 blog，应当勉励的。",
 		"stars": 1
-	},
-	{
-		"name": "Ivan Kapunac",
-		"avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHD1EtuIeXxDQ/profile-displayphoto-scale_400_400/B4DZnI8lKCHsAg-/0/1760012950053?e=1764806400&v=beta&t=eDxdpmvMVG90RGvTHcDmcz44kWbx3LeiyUnTcHGi52c",
-		"url": "https://ivankapunac.com/",
-		"description": "3D 个人介绍网站，看上去会惊讶一下。但交互的还是缺失的。如果建模是自己原创的话，还是挺厉害的。",
-		"stars": 3
 	},
 	{
 		"name": "微尔微",
@@ -250,5 +236,12 @@
 		"url": "https://blog.zhilu.site/",
 		"description": "棒棒的开源 blog 主，今天蹭了蹭他群友，🤣，给他多加一分🤣🤣🤣。",
 		"stars": 4
+	},
+	{
+		"name": "灯火不休时",
+		"avatar": "https://file.dhbxs.top/ylvwvjjs.jpg",
+		"url": "https://blog.dhbxs.top/",
+		"description": "群友，JAVAR，干净blog，让我看到几个人的影子。",
+		"stars": 3
 	}
 ]

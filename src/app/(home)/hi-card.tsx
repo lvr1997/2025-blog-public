@@ -19,9 +19,10 @@ function getGreeting() {
 
 export default function HiCard() {
 	const center = useCenterStore()
-	const { cardStyles } = useConfigStore()
+	const { cardStyles, siteContent } = useConfigStore()
 	const greeting = getGreeting()
 	const styles = cardStyles.hiCard
+	const username = siteContent.meta.username || 'Suni'
 
 	const x = styles.offsetX !== null ? center.x + styles.offsetX : center.x - styles.width / 2
 	const y = styles.offsetY !== null ? center.y + styles.offsetY : center.y - styles.height / 2
