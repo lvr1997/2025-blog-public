@@ -1,5 +1,16 @@
 [
   {
+    "slug": "java-learn",
+    "title": "培训",
+    "tags": [
+      "随笔"
+    ],
+    "date": "2017-07-02T16:18",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "intro-java",
     "title": "初识Java",
     "tags": [
