@@ -1,7 +1,8 @@
 {
 	"meta": {
-		"title": "Riny",
-		"description": "Riny 的个人博客。"
+		"title": "Riny's Blog",
+		"description": "Riny 的个人博客。",
+		"username": "Riny"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -63,6 +64,6 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 24,
 	"hatFlipped": false
 }
