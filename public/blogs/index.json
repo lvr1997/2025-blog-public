@@ -1,5 +1,16 @@
 [
   {
+    "slug": "choose-job",
+    "title": "涨薪 or 离职",
+    "tags": [
+      "随笔"
+    ],
+    "date": "2021-12-20T16:22",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "java-story",
     "title": "来自一个程序媛的内心独白",
     "tags": [
