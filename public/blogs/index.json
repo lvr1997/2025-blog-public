@@ -1,5 +1,14 @@
 [
   {
+    "slug": "frontend-wordpress",
+    "title": "WordPress使用小记",
+    "tags": [],
+    "date": "2025-12-24T09:11",
+    "summary": "",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "frontend-seo",
     "title": "关于SEO的探究——Open Graph 协议",
     "tags": [
