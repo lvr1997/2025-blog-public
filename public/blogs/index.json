@@ -26,44 +26,44 @@
     "slug": "choose-job",
     "title": "涨薪 or 离职",
     "tags": [
-      "随笔"
+      "essay"
     ],
     "date": "2021-12-20T16:22",
     "summary": "",
     "hidden": false,
-    "category": "总结"
+    "category": "随笔"
   },
   {
     "slug": "java-story",
     "title": "来自一个程序媛的内心独白",
     "tags": [
-      "随笔"
+      "essay"
     ],
     "date": "2021-05-06T16:20",
     "summary": "",
     "hidden": false,
-    "category": "总结"
+    "category": "随笔"
   },
   {
     "slug": "java-learn",
     "title": "培训",
     "tags": [
-      "随笔"
+      "essay"
     ],
     "date": "2017-07-02T16:18",
     "summary": "",
     "hidden": false,
-    "category": "总结"
+    "category": "随笔"
   },
   {
     "slug": "intro-java",
     "title": "初识Java",
     "tags": [
-      "随笔"
+      "essay"
     ],
     "date": "2016-08-22T16:12",
     "summary": "初识Java",
     "hidden": false,
-    "category": "总结"
+    "category": "随笔"
   }
 ]
