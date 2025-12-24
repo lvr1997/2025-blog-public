@@ -1,0 +1,10 @@
+{
+  "title": "关于SEO的探究——Open Graph 协议",
+  "tags": [
+    "SEO"
+  ],
+  "date": "2025-12-24T08:32",
+  "summary": "浏览网页时发现：有的meta标签中property属性值前缀带og:   比如 ：property=\"og:description\"是什么意思？",
+  "hidden": false,
+  "category": "代码实现"
+}
