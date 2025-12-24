@@ -1,5 +1,14 @@
 [
   {
+    "slug": "frontend-seo-gtm",
+    "title": "关于SEO的探究——Google Tag Manager",
+    "tags": [],
+    "date": "2025-12-24T09:36",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "frontend-seo",
     "title": "关于SEO的探究——Open Graph 协议",
     "tags": [
