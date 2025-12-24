@@ -1,8 +1,11 @@
 {
   "title": "关于SEO的探究——Google Tag Manager",
-  "tags": [],
+  "tags": [
+    "SEO",
+    "wordpress"
+  ],
   "date": "2025-12-24T09:36",
-  "summary": "",
+  "summary": "Google Tag Manager",
   "hidden": false,
-  "category": ""
+  "category": "代码实现"
 }
