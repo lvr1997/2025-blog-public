@@ -1,4 +1,18 @@
 [
+    { "logo": 'https://www.json.cn/favicon.ico', "name": 'Json.cn', "description": '在线json解析工具', "url": 'https://www.json.cn/',"stars": 3, "tags": ["json","工具"] },
+    { "logo": 'https://apifox.com/favicon.ico', "name": 'APIfox接口调试工具', "description": '比Postman好用', "url": 'https://app.apifox.com/main',"stars": 3, "tags": ["接口调试","工具"] },
+    { "logo": 'https://vuejsexamples.com/favicon.ico', "name": 'vue实用案例收集', "description": 'vue实用案例收集：', "url": 'https://vuejsexamples.com/','stars': 3, "tags": ["vue","案例"] },    
+    { "logo": 'https://logofa.st/favicon.ico', "name": 'LogoFast | Make Beautiful Logos Fast and Free', "description": '在线生成logo', "url": 'https://logofa.st/','stars': 3, "tags": ["logo","工具"] },
+    { "logo": 'https://svg.wtf/favicon.svg', "name": '在线制作SVG图标', "description": '学习如何编写 SVG 代码的游乐场 - 包括一些有用的代码相关功能，如悬停查看属性的文档等。', "url": 'https://svg.wtf/','stars': 3, "tags": ["svg","工具"] },
+    { "logo": 'https://tool.lu/favicon.ico', "name": '在线工具', "description": '在线工具箱', "url": 'https://tool.lu/','stars': 3, "tags": ["工具","在线"] },
+    { "logo": '', "name": 'Pixabay', "description": '找素材图片的网站', "url": 'https://pixabay.com','stars': 3, "tags": ["图片","工具"] },
+    { "logo": '', "name": 'Free SVG generators, color tools & web design tools', "description": '完全不用PS、AI就能用的背景图片工具！！！', "url": 'https://www.fffuel.co/','stars': 3, "tags": ["svg","工具"] },
+    { "logo": '', "name": 'Learn. Teach. Create.edclub', "description": '在线打字小游戏', "url": 'https://www.edclub.com/','stars': 3, "tags": ["打字","工具"] },
+    { "logo": '', "name": 'H5魔塔', "description": '经典的魔塔游戏', "url": 'https://h5mota.com/landing.php','stars': 3, "tags": ["摸鱼","工具"] },
+    { "logo": '', "name": '格子纸打印', "description": '（纯属娱乐）有需要的时候可以用用', "url": 'http://gridzzly.com/','stars': 3, "tags": ["打印","工具"] },
+    { "logo": '', "name": 'TypingClub', "description": '在线打字游戏', "url": 'https://www.typingclub.com/','stars': 3, "tags": ["打字","摸鱼"] },
+    { "logo": '', "name": 'TypingTest', "description": '在线打字游戏', "url": 'https://www.typingtest.com/','stars': 3, "tags": ["打字","摸鱼"] },
+    { "logo": '', "name": '记忆力小游戏', "description": '记忆力小游戏', "url": 'https://brain-trainer.pages.dev/','stars': 3, "tags": ["记忆","摸鱼"] },
 	{
 		"name": "iLoveIMG",
 		"url": "https://www.iloveimg.com/zh-cn",
