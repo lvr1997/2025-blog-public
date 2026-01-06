@@ -35,6 +35,15 @@
     "category": "代码实现"
   },
   {
+    "slug": "vitepress-obsidian",
+    "title": "使用Vitepress将Obsidian仓库发布为静态网站",
+    "tags": [],
+    "date": "2024-11-07T15:18",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "choose-job",
     "title": "涨薪 or 离职",
     "tags": [
