@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"name": "i-have",
+		"year": 2025,
+		"image": "blob:https://2025-blog-public-two.vercel.app/896e2044-5e49-489d-97bc-08819ca6ed28",
+		"url": "https://github.com/lvr1997/i-have",
+		"description": "基于2019年毕业设计科大二手工坊的V2.0版本，项目采用SpringBoot3 + Vue3构建，持续更新中...",
+		"tags": [
+			"SpringBoot",
+			"Vue"
+		],
+		"github": "https://github.com/lvr1997/i-have"
+	}
+]
