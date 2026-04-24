@@ -5,7 +5,7 @@
 		"order": 3,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"hiCard": {
 		"width": 360,
@@ -55,7 +55,7 @@
 		"order": 7,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"articleCard": {
 		"width": 266,
@@ -63,7 +63,7 @@
 		"order": 8,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"writeButtons": {
 		"height": 42,
@@ -79,7 +79,7 @@
 		"order": 2,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"likePosition": {
 		"width": 54,
@@ -95,6 +95,6 @@
 		"order": 10,
 		"offsetX": -48,
 		"offsetY": -168,
-		"enabled": true
+		"enabled": false
 	}
 }
