@@ -45,10 +45,10 @@
 			"order": 1
 		},
 		{
-			"id": "juejin",
+			"id": "notes",
 			"type": "link",
-			"value": "https://rzoco.top",
-			"label": "搬砖日记",
+			"value": "https://notes.rzoco.top",
+			"label": "Riny's Notes",
 			"order": 2
 		},
 		{

@@ -24,18 +24,18 @@ export function MetaSection({ delay = 0 }: MetaSectionProps) {
 			<h2 className='text-sm'>元信息</h2>
 
 			<div className='mt-3 space-y-2'>
-				<textarea
+				{/* <textarea
 					placeholder='为这篇文章写一段简短摘要'
 					rows={2}
 					className='bg-card block w-full resize-none rounded-xl border p-3 text-sm'
 					value={form.summary}
 					onChange={e => updateForm({ summary: e.target.value })}
-				/>
+				/> */}
 
 				<TagInput tags={form.tags} onChange={tags => updateForm({ tags })} />
-				{enableCategories && (
+				{/* {enableCategories && (
 					<Select className='w-full text-sm' value={form.category || ''} onChange={value => updateForm({ category: value })} options={categoryOptions} />
-				)}
+				)} */}
 				<input
 					type='datetime-local'
 					placeholder='日期'
@@ -46,7 +46,7 @@ export function MetaSection({ delay = 0 }: MetaSectionProps) {
 					}}
 				/>
 
-				<div className='flex items-center gap-2'>
+				{/* <div className='flex items-center gap-2'>
 					<input
 						type='checkbox'
 						id='hidden-check'
@@ -57,7 +57,7 @@ export function MetaSection({ delay = 0 }: MetaSectionProps) {
 					<label htmlFor='hidden-check' className='cursor-pointer text-sm text-gray-600 select-none'>
 						隐藏此文章（仅管理员可见）
 					</label>
-				</div>
+				</div> */}
 			</div>
 		</motion.div>
 	)

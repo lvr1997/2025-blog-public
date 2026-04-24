@@ -43,7 +43,7 @@ export default function WriteButton() {
 					style={{ boxShadow: 'inset 0 0 12px rgba(255, 255, 255, 0.4)' }}
 					className='brand-btn whitespace-nowrap'>
 					<PenSVG />
-					<span>写文章</span>
+					<span>小记</span>
 				</motion.button>
 				<motion.button
 					initial={{ opacity: 0, scale: 0.6 }}

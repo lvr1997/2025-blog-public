@@ -14,3 +14,10 @@ export const GITHUB_CONFIG = {
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2407175',
 	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || 'wudishiduomejimo',
 } as const
+
+export const NOTES_GITHUB_CONFIG = {
+	OWNER: process.env.NEXT_PUBLIC_NOTES_GITHUB_OWNER || 'lvr1997',
+	REPO: process.env.NEXT_PUBLIC_NOTES_GITHUB_REPO || 'my-notes',
+	BRANCH: process.env.NEXT_PUBLIC_NOTES_GITHUB_BRANCH || 'main',
+	POSTS_DIR: process.env.NEXT_PUBLIC_NOTES_POSTS_DIR || 'posts/Essay'
+} as const

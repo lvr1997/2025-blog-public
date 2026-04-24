@@ -25,28 +25,22 @@ import { useConfigStore } from '@/app/(home)/stores/config-store'
 import { HomeDraggableLayer } from '@/app/(home)/home-draggable-layer'
 
 const list = [
-	{
-		icon: ScrollOutlineSVG,
-		iconActive: ScrollFilledSVG,
-		label: '近期文章',
-		href: '/blog'
-	},
-	{
-		icon: ProjectsOutlineSVG,
-		iconActive: ProjectsFilledSVG,
-		label: '我的项目',
-		href: '/projects'
-	},
-	{
-		icon: AboutOutlineSVG,
-		iconActive: AboutFilledSVG,
-		label: '关于网站',
-		href: '/about'
-	},
+	// {
+	// 	icon: ScrollOutlineSVG,
+	// 	iconActive: ScrollFilledSVG,
+	// 	label: '近期文章',
+	// 	href: '/blog'
+	// },
+	// {
+	// 	icon: ProjectsOutlineSVG,
+	// 	iconActive: ProjectsFilledSVG,
+	// 	label: '我的项目',
+	// 	href: '/projects'
+	// },
 	{
 		icon: ShareOutlineSVG,
 		iconActive: ShareFilledSVG,
-		label: '推荐分享',
+		label: '收藏夹',
 		href: '/share'
 	},
 	{
@@ -54,7 +48,13 @@ const list = [
 		iconActive: WebsiteFilledSVG,
 		label: '优秀博客',
 		href: '/bloggers'
-	}
+	},
+	{
+		icon: AboutOutlineSVG,
+		iconActive: AboutFilledSVG,
+		label: '关于网站',
+		href: '/about'
+	},
 ]
 
 const extraSize = 8
@@ -102,7 +102,7 @@ export default function NavCard() {
 
 	const size = useMemo(() => {
 		if (form === 'mini') return { width: 64, height: 64 }
-		else if (form === 'icons') return { width: 340, height: 64 }
+		else if (form === 'icons') return { width: 240, height: 64 }
 		else return { width: styles.width, height: styles.height }
 	}, [form, styles])
 
@@ -130,7 +130,7 @@ export default function NavCard() {
 					<Link className='flex items-center gap-3' href='/'>
 						<Image src='/images/avatar.png' alt='avatar' width={40} height={40} style={{ boxShadow: ' 0 12px 20px -5px #E2D9CE' }} className='rounded-full' />
 						{form === 'full' && <span className='font-averia mt-1 text-2xl leading-none font-medium'>{siteContent.meta.title}</span>}
-						{form === 'full' && <span className='text-brand mt-2 text-xs font-medium'>(开发中)</span>}
+						{/* {form === 'full' && <span className='text-brand mt-2 text-xs font-medium'>(开发中)</span>} */}
 					</Link>
 
 					{(form === 'full' || form === 'icons') && (
@@ -166,7 +166,7 @@ export default function NavCard() {
 										href={item.href}
 										className={cn('text-secondary text-md relative z-10 flex items-center gap-3 rounded-full px-5 py-3', form === 'icons' && 'p-0')}
 										onMouseEnter={() => setHoveredIndex(index)}>
-										<div className='flex h-7 w-7 items-center justify-center'>
+										<div className='flex h-7 w-7 items-center justify-center' title={item.label}>
 											{hoveredIndex == index ? <item.iconActive className='text-brand absolute h-7 w-7' /> : <item.icon className='absolute h-7 w-7' />}
 										</div>
 										{form !== 'icons' && <span className={clsx(index == hoveredIndex && 'text-primary font-medium')}>{item.label}</span>}
