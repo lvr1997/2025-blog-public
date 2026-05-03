@@ -5,7 +5,7 @@
 		"username": "Riny"
 	},
 	"theme": {
-		"colorBrand": "#35bfab",
+		"colorBrand": "#8A08C7",
 		"colorPrimary": "#334f52",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#1fc9e7",
@@ -15,12 +15,11 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#EDDD62",
-		"#9EE7D1",
-		"#84D68A",
-		"#EDDD62",
-		"#88E6E5",
-		"#a7f3d0"
+		"#D6A8C3",
+		"#940EEA",
+		"#E6DCF2",
+		"#02864B",
+		"#23C7E6"
 	],
 	"artImages": [
 		{
@@ -47,7 +46,7 @@
 		{
 			"id": "notes",
 			"type": "link",
-			"value": "https://notes.rzoco.top",
+			"value": "https://rzoco.top",
 			"label": "Riny's Notes",
 			"order": 2
 		},
